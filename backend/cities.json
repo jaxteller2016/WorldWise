@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Kyiv",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2023-11-09T11:56:24.928Z",
+      "notes": "War zone!",
+      "position": {
+        "lat": 50.433017111356605,
+        "lng": 30.552978515625004
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Bucuresti",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2023-12-30T09:50:57.515Z",
+      "notes": "Acasa!",
+      "position": {
+        "lat": 44.41808794374849,
+        "lng": 26.03759765625
+      },
+      "id": "e1d03b49-1b02-488a-8053-638a258ab4f0"
+    },
+    {
+      "cityName": "Sarajevo",
+      "country": "Bosnia and Herzegovina",
+      "emoji": "🇧🇦",
+      "date": "2023-12-30T10:10:34.341Z",
+      "notes": "Nice",
+      "position": {
+        "lat": 43.866218006556394,
+        "lng": 18.413085937500004
+      },
+      "id": "42e469ee-2938-43ba-bfa3-a085ee3b9f4d"
+    },
+    {
+      "cityName": "Budapest",
+      "country": "Hungary",
+      "emoji": "🇭🇺",
+      "date": "2023-12-30T10:11:42.892Z",
+      "notes": "Hungarian Capital!",
+      "position": {
+        "lat": 47.45780853075031,
+        "lng": 19.138183593750004
+      },
+      "id": "5ab25a70-df1f-4402-aa8f-f841c4fd79b0"
+    }
+  ]
+}
